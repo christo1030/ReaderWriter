@@ -3,7 +3,9 @@
 #include <semaphore.h>
 #include <stdio.h>
 #include <unistd.h>
- 
+ //this is a test for github
+
+
 /* define # readers */
 #define THREADCOUNT 10  
  
